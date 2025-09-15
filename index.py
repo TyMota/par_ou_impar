@@ -79,7 +79,7 @@ while player_escolha != "NAO":
 
 print("Fim do programa!")
 if historico == 1:
-    print(f"Foram jogadas {historico} partida. Você ganhou {voce} veze e o computador {computador} veze.")
+    print(f"Foram jogadas {historico} partida. Você ganhou {voce} vez e o computador {computador} vez.")
 else:
     print(f"Foram jogadas {historico} partidas. Você ganhou {voce} vezes e o computador {computador} vezes.")
  
